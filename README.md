@@ -1,0 +1,2 @@
+# Flappy-Bird-A.I.
+With the Pygame framework, I wrote a basic version of Flappy Bird. I then implemented the NEAT algorithm to make adjustments to the most fit bird from each generation. Because adjustments are basically random, sometimes progeny have lower fitness values than parents. After a few generations, the neural network can "perfectly" time when to jump and the birds can fly indefinitely.
